@@ -9,5 +9,5 @@
 response = RestClient.get("https://api.phish.net/v3/shows/links?apikey=07E4EA1561E2A5D45A58")
   data JSON.parse(response)
     data.each do |show|
-      Show.create!(artist: show["response"]["data"]["artist"])
+      Show.create!()
     end
