@@ -1,0 +1,35 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  artist: MyString
+  artistId: 1
+  gap_chart: MyString
+  location: MyString
+  long_date: MyString
+  rating: 1.5
+  relative_date: MyString
+  setlist_data: MyString
+  setlist_notes: MyString
+  short_date: 
+  show_date: 
+  showid: 1
+  url: MyString
+  venue: MyString
+  venueid: 1
+
+two:
+  artist: MyString
+  artistId: 1
+  gap_chart: MyString
+  location: MyString
+  long_date: MyString
+  rating: 1.5
+  relative_date: MyString
+  setlist_data: MyString
+  setlist_notes: MyString
+  short_date: 
+  show_date: 
+  showid: 1
+  url: MyString
+  venue: MyString
+  venueid: 1
